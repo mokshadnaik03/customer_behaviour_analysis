@@ -6,14 +6,14 @@ Overview
 This project analyzes customer purchase data to understand shopping patterns, customer segments, and product performance. The goal is to generate insights that help businesses make better marketing and sales decisions.
 
 Dataset
-~3,900 transaction records
+~3,900 transaction records,
 18 columns including customer demographics, purchase details, discounts, ratings, and shipping information.
 
 
 Tools & Technologies
-Python (Pandas, NumPy)
-SQL (PostgreSQL/MySQL)
-Power BI
+Python (Pandas, NumPy),
+SQL (PostgreSQL/MySQL),
+Power BI,
 Gamma (Presentation)
 
 
@@ -35,9 +35,9 @@ Found high-spending discount users.
 
 Dashboard
 Power BI dashboard visualizes:
-Customer count
-Revenue by category
-Sales by age group
+Customer count,
+Revenue by category,
+Sales by age group,
 Subscription distribution
 
 Outcome
